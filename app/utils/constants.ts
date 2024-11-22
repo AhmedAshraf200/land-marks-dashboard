@@ -1,0 +1,1 @@
+export const APP_URL: string = "https://landmarks-proejct.onrender.com/api/v1"
